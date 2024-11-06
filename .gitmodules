@@ -1,0 +1,3 @@
+[submodule "C:\Windows\System32\quartz\content"] 
+  path = C:\Windows\System32\quartz\content
+  url = git://github.com/Corbii1/ObsidianVaultDnD
